@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59977" started-at="2020-07-13T13:54:48 IST" finished-at="2020-07-13T13:55:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59977" started-at="2020-07-13T13:54:48 IST" finished-at="2020-07-13T13:55:48 IST">
+      <class name="com.bikewale.test.TestNG">
+        <test-method status="PASS" signature="driver1()[pri:0, instance:com.bikewale.test.TestNG@d44fc21]" name="driver1" is-config="true" duration-ms="36630" started-at="2020-07-13T13:54:48 IST" finished-at="2020-07-13T13:55:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver1 -->
+        <test-method status="PASS" signature="validate()[pri:1, instance:com.bikewale.test.TestNG@d44fc21]" name="validate" duration-ms="44" started-at="2020-07-13T13:55:25 IST" finished-at="2020-07-13T13:55:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method status="PASS" signature="filtering()[pri:2, instance:com.bikewale.test.TestNG@d44fc21]" name="filtering" duration-ms="9459" started-at="2020-07-13T13:55:25 IST" finished-at="2020-07-13T13:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filtering -->
+        <test-method status="PASS" signature="writing()[pri:3, instance:com.bikewale.test.TestNG@d44fc21]" name="writing" duration-ms="7936" started-at="2020-07-13T13:55:34 IST" finished-at="2020-07-13T13:55:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writing -->
+        <test-method status="PASS" signature="picture()[pri:4, instance:com.bikewale.test.TestNG@d44fc21]" name="picture" duration-ms="576" started-at="2020-07-13T13:55:42 IST" finished-at="2020-07-13T13:55:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- picture -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.bikewale.test.TestNG@d44fc21]" name="close" is-config="true" duration-ms="5067" started-at="2020-07-13T13:55:43 IST" finished-at="2020-07-13T13:55:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.bikewale.test.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
